@@ -1,10 +1,13 @@
 
+##html2txt.js
+
+### Usage
+
 Include the file "html2text.js" after your jquery inclusion.
 
 Call the function html2text to a string containing your html and that's it! 
 
-Example of result on this page :
-
+### Example of result on this page
 
 airrr/htmltoplaintext 
 
